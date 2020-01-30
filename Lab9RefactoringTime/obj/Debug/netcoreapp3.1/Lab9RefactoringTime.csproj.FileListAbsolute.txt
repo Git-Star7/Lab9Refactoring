@@ -1,0 +1,11 @@
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.exe
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.deps.json
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.runtimeconfig.json
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.runtimeconfig.dev.json
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\bin\Debug\netcoreapp3.1\Lab9RefactoringTime.pdb
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\obj\Debug\netcoreapp3.1\Lab9RefactoringTime.csprojAssemblyReference.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\obj\Debug\netcoreapp3.1\Lab9RefactoringTime.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\obj\Debug\netcoreapp3.1\Lab9RefactoringTime.AssemblyInfo.cs
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\obj\Debug\netcoreapp3.1\Lab9RefactoringTime.dll
+C:\Users\Michael\source\repos\Grand Circus\Lab9RefactoringTime\Lab9RefactoringTime\obj\Debug\netcoreapp3.1\Lab9RefactoringTime.pdb
